@@ -1,7 +1,7 @@
 RENCANA KONTEN
 - Javascript
   * ES6
-  * Frame WorkJavascript
+  * FrameWork Javascript
     ^ Vue
     ^ React
 - Struktur Data Dasar
