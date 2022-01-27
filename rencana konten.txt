@@ -2,7 +2,10 @@ RENCANA KONTEN
 - Javascript
   * ES6
   * Frame WorkJavascript
+    ^ Vue
 - Struktur Data Dasar
 - Php Framework
+  ^ Laravel
 - Interview
 - Vlogs
+- Python
