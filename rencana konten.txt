@@ -3,6 +3,7 @@ RENCANA KONTEN
   * ES6
   * Frame WorkJavascript
     ^ Vue
+    ^ React
 - Struktur Data Dasar
 - Php Framework
   ^ Laravel
