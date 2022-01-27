@@ -1,5 +1,7 @@
 RENCANA KONTEN
 - Javascript
+  * ES6
+  * Frame WorkJavascript
 - Php Framework
 - Interview
 - Vlogs
