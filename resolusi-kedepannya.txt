@@ -1,6 +1,0 @@
-RESOLUSI
-- Konsisten Belajar Github
-- Konsisten Belajar coding
-- Bisa Membuat Project kecil-kecilan
-- Buat UI
-- Belajar php
